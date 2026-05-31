@@ -1,0 +1,21 @@
+{
+  "sources": [
+    {
+      "name": "base_dataset.csv",
+      "docs_added": 76,
+      "timestamp": "2026-05-29 18:20:16"
+    },
+    {
+      "name": "curriculum_overview.txt",
+      "docs_added": 5,
+      "timestamp": "2026-05-29 18:29:03"
+    },
+    {
+      "name": "new_faqs_batch1.csv",
+      "docs_added": 5,
+      "timestamp": "2026-05-30 12:19:42"
+    }
+  ],
+  "total_docs": 86,
+  "last_updated": "2026-05-30 12:19:42"
+}
